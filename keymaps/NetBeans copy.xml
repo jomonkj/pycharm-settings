@@ -1,0 +1,46 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+    <keyboard-shortcut first-keystroke="alt numpad1" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt numpad0" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="ConfigureIcs">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="ShowBookmarks" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="ViewMainMenu">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="ViewNavigationBar">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="ViewStatusBar">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="ViewToolBar">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+</keymap>

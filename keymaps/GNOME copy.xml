@@ -1,0 +1,8 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="ConfigureIcs">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+</keymap>
